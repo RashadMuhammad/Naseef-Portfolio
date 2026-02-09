@@ -474,6 +474,7 @@ const App: React.FC = () => {
           <a
             href="/uploads/Resume.pdf"
             download
+            type="application/pdf"
             className="bg-slate-900 dark:bg-white dark:text-slate-900 text-white px-10 py-4 rounded-2xl font-bold hover:scale-105 transition-transform flex items-center gap-3 mx-auto shadow-2xl w-fit"
           >
             <svg

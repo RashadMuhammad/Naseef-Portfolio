@@ -1,0 +1,7 @@
+{
+  "name": "Naseef P. - Flutter Expert Portfolio",
+  "description": "A high-end, Apple-inspired developer portfolio for Naseef P., featuring a light/dark theme, project showcase, and a Gemini-powered AI chat assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
